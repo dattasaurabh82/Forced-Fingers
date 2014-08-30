@@ -1,0 +1,3 @@
+Codes and data of the project.. 
+It's core is based on the concepts of forced feedvback and control systems.. 
+Work in progress.......
